@@ -1,0 +1,38 @@
+# IDE
+.vs/
+.idea/
+.vscode/
+
+# Build outputs (any depth)
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+**/bin/
+**/obj/
+**/Debug/
+**/Release/
+**/x64/
+**/x86/
+ipch/
+**/ipch/
+
+# MSVC artifacts
+*.obj
+*.pdb
+*.ilk
+*.tlog
+*.log
+*.idb
+*.exp
+*.lib
+*.dll
+*.exe
+
+# User/DB files
+*.user
+*.suo
+*.VC.db
+*.VC.opendb
